@@ -179,7 +179,7 @@ python image_classification.py --train --epochs 50
 |---------|-------|----------|------------|
 | Customer Churn | XGBoost | 89% | F1-Score: 86% |
 | Customer Churn | Random Forest | 87% | F1-Score: 84% |
-| GDP Prediction | Gradient Boosting | - | RMSE: [Value] |
+| GDP Prediction | Linear Regression - | RMSE: [2528.5452297366696] |
 | Image Classification | CNN | [Value]% | Validation Acc: [Value]% |
 
 ### Key Insights
