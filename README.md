@@ -83,7 +83,7 @@ This repository contains multiple machine learning projects showcasing:
 
 **Algorithms Used:** CNN, Transfer Learning (ResNet/VGG)
 
-**Dataset:** [Specify your dataset - e.g., CIFAR-10, Custom Dataset]
+**Dataset:** [ CIFAR-10, Custom Dataset]
 
 ---
 
@@ -180,7 +180,7 @@ python image_classification.py --train --epochs 50
 | Customer Churn | XGBoost | 89% | F1-Score: 86% |
 | Customer Churn | Random Forest | 87% | F1-Score: 84% |
 | GDP Prediction | Linear Regression - | RMSE: [2528.5452297366696] |
-| Image Classification | CNN | [Value]% | Validation Acc: [Value]% |
+| Image Classification | Random Forest | [75%|  |
 
 ### Key Insights
 - **Customer Churn:** Top predictive features include contract type, tenure, and monthly charges
